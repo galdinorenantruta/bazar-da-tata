@@ -278,7 +278,7 @@ p {
   justify-content: space-around;
 }
 .about .content img {
-  height: 90vh;
+  height: 400px;
   width: 400px;
   max-width: 100%;
   border-radius: 100%;
