@@ -385,7 +385,7 @@ ul li a {
   color: white;
 }
 
-ul li:not(:last-child) {
+ul li {
   margin-bottom: 8px;
   font-size: 19px;
   text-transform: capitalize;
@@ -397,6 +397,10 @@ ul li:not(:last-child) {
 ul li a:hover {
   color: #ffc2c2;
   padding-left: 2px;
+}
+ul li p {
+  font-size: 12px;
+  font-style: italic;
 }
 
 .links a {
